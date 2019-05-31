@@ -54,9 +54,6 @@ Did you install Python 2 or 3? Why?
 In the Terminal:
 
 `python3 --3.7.1
-
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
  
 
 
